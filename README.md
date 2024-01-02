@@ -70,11 +70,6 @@ I am Aarzoo Islam, the founder of AroNus and an independent full-stack web devel
 
 ---
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
----
-
 #### :octocat:  My Github Stats
 
 <table cellpadding="0" align="center">
