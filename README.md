@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Founder/Creator)`**
 
-I am Aarzoo Islam, the founder of AroNus and an independent full-stack web developer. As a passionate content creator, I go by the name "[Code with Aarzoo](https://www.youtube.com/@codewithaarzoo)" on my YouTube channel, where I share my journey of crafting the digital world step by step. Whether it's coding projects or video content, I believe in starting from scratch – from planning and design to solving real-life problems with code and infusing artistic touches into my videos. With over 2k subscribers, you can find my creative endeavors on my YouTube channel at "[Code with Aarzoo](https://www.youtube.com/@codewithaarzoo)".
+I am Aarzoo Islam, the founder of Dgisight and an independent full-stack web developer. As a passionate content creator, I go by the name "[Code with Aarzoo](https://www.youtube.com/@codewithaarzoo)" on my YouTube channel, where I share my journey of crafting the digital world step by step. Whether it's coding projects or video content, I believe in starting from scratch – from planning and design to solving real-life problems with code and infusing artistic touches into my videos. With over 2k subscribers, you can find my creative endeavors on my YouTube channel at "[Code with Aarzoo](https://www.youtube.com/@codewithaarzoo)".
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
